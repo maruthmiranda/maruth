@@ -50,7 +50,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h2.jpg",
     "price": 200,
     "priceCurrency": "₱",
-    "lat": 16.544041,
+    "lat": 16.544041, 
     "lng": 120.324377
   },
 ]
