@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "asdasdasdasdas,
+    "name": "thunderbird",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h2.jpg",
     "price": 200,
     "priceCurrency": "₱",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Pugad Launion",
+    "name": "Pindangan",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h3.jpg",
     "price": 200,
     "priceCurrency": "₱",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Sea Bay La Union",
+    "name": "botanical garden",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h4.jpg",
     "price": 300,
     "priceCurrency": "₱",
@@ -37,11 +37,20 @@
   },
   {
     "id": 210,
-    "name": "Thunderbird La union",
+    "name": "halo-halo de iloko",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h5.jpg",
     "price": 400,
     "priceCurrency": "₱",
     "lat": 16.608991,
     "lng": 120.286336
   }
+  {
+    "id": 148,
+    "name": "Grape Farm",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/ja/master/qwert/h2.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.544041,
+    "lng": 120.324377
+  },
 ]
